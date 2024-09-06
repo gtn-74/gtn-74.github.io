@@ -9,6 +9,7 @@ I am currently learning to be a back-end engineer.
 ## SNS
 
 - [Github](https://github.com/gtn-74)
+- [Github Gist](https://gist.github.com/gtn-74)
 - [X](https://x.com/gtn_74)
 - [しずかなインターネット](https://sizu.me/gtn_74)
 - [zenn](https://zenn.dev/gtn74)
