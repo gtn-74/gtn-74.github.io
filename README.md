@@ -13,6 +13,7 @@ I am currently learning to be a back-end engineer.
 - [X](https://x.com/gtn_74)
 - [しずかなインターネット](https://sizu.me/gtn_74)
 - [zenn](https://zenn.dev/gtn74)
+- [qiita](https://qiita.com/gtn74)
 - [linkdin](https://www.linkedin.com/in/ryosuke-ogitani-1b822327b/)
 - [欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/2VR5DDGFRQH9E?ref_=wl_share)
 <!-- - [note](https://note.com/gtnr74) -->
