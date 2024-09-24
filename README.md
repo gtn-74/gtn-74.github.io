@@ -11,6 +11,7 @@ I am currently learning to be a back-end engineer.
 - [Github](https://github.com/gtn-74)
 - [Github Gist](https://gist.github.com/gtn-74)
 - [X](https://x.com/gtn_74)
+- [Bluesky](https://bsky.app/profile/gtn74.bsky.social)
 - [しずかなインターネット](https://sizu.me/gtn_74)
 - [zenn](https://zenn.dev/gtn74)
 - [qiita](https://qiita.com/gtn74)
