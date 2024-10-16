@@ -16,7 +16,7 @@ I am currently learning to be a back-end engineer.
 - [zenn](https://zenn.dev/gtn74)
 - [qiita](https://qiita.com/gtn74)
 - [linkdin](https://www.linkedin.com/in/ryosuke-ogitani-1b822327b/)
-- [欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/2VR5DDGFRQH9E?ref_=wl_share)
+- [欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/25LIJSDEVY579?ref_=wl_share)
 <!-- - [note](https://note.com/gtnr74) -->
 <!-- - [Speaker Deck](https://speakerdeck.com/gtn74) -->
 <!-- - [connpass](https://connpass.com/user/gtn_74/) -->
